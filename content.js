@@ -1,1 +1,1 @@
-module.exports = "it works from content.js";
+module.exports = 'Hello Webpack (from content.js)'

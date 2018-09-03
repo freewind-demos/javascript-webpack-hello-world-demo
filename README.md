@@ -1,9 +1,11 @@
-Webpack hello-world Demo
-========================
+JavaScript Webpack Hello World Demo
+===================================
 
 ```
-npm install -g webpack
-webpack ./entry.js bundle.js
+npm install
+npm start
 ```
 
 Then open `index.html` in browser
+
+![demo](./images/demo.jpg)
